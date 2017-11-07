@@ -1,0 +1,58 @@
+Data operacji: Wed Oct 11 23:57:47 2017, Pierwsza liczba: 1, Druga liczba: 5, Operacja: odejmowanie , Wynik: -4
+Data operacji: Thu Oct 12 00:08:36 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: dodawanie , Wynik: 3
+Data operacji: Thu Oct 12 00:31:03 2017, Pierwsza liczba: 5, Druga liczba: 6, Operacja: dzielenie , Wynik: 0.8333333333333334
+Data operacji: Thu Oct 12 00:32:31 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: odejmowanie , Wynik: -1
+Data operacji: Thu Oct 12 00:33:22 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: Data operacji: Thu Oct 12 00:34:08 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: Data operacji: Thu Oct 12 00:34:18 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: , Wynik: Data operacji: Thu Oct 12 00:35:01 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:35:08 2017, Pierwsza liczba: 1, Druga liczba: 2, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:37:22 2017, Pierwsza liczba: Data operacji: Thu Oct 12 00:37:35 2017, Pierwsza liczba: 0, Druga liczba: Data operacji: Thu Oct 12 00:37:52 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:38:24 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:38:42 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:39:17 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:39:27 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:39:50 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:40:53 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:41:24 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:41:50 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:44:49 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:44:56 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:45:34 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:45:47 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:46:01 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:46:14 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:48:16 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:49:37 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:52:33 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 00:54:37 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:14:40 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:20:57 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:25:11 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:26:21 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:27:13 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:27:32 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:27:53 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:28:39 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:29:01 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:29:28 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:32:29 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:32:58 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:33:15 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:34:31 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:38:06 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:43:12 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:43:25 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:43:28 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:43:55 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:44:10 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:44:16 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:48:39 2017, Pierwsza liczba: 0, Druga liczba: 0, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:49:47 2017, Pierwsza liczba: 9, Druga liczba: 6, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:55:01 2017, Pierwsza liczba: 7, Druga liczba: 8, Operacja: , Wynik: 
+Data operacji: Thu Oct 12 01:56:46 2017, Pierwsza liczba: 8, Druga liczba: 9, Operacja: dodawanie , Wynik: 1
+Data operacji: Thu Oct 12 01:57:12 2017, Pierwsza liczba: 4, Druga liczba: 5, Operacja: dodawanie , Wynik: 1
+Data operacji: Thu Oct 12 01:57:37 2017, Pierwsza liczba: 5, Druga liczba: 6, Operacja: mnozenie , Wynik: 0
+Data operacji: Thu Oct 12 01:57:43 2017, Pierwsza liczba: 5, Druga liczba: 6, Operacja: mnozenie , Wynik: 0
+Data operacji: Thu Oct 12 01:57:57 2017, Pierwsza liczba: 5, Druga liczba: 6, Operacja: mnozenie , Wynik: 0
+Data operacji: Thu Oct 12 01:58:52 2017, Pierwsza liczba: 2, Druga liczba: 5, Operacja: mnozenie , Wynik: 10
+Data operacji: Thu Oct 12 01:58:56 2017, Pierwsza liczba: 5, Druga liczba: 6, Operacja: mnozenie , Wynik: 30
+Data operacji: Thu Oct 12 02:04:07 2017, Pierwsza liczba: 2, Druga liczba: 3, Operacja: mnozenie , Wynik: 6
+Data operacji: Thu Oct 12 02:07:46 2017, Pierwsza liczba: 2, Druga liczba: 3, Operacja: mnozenie , Wynik: 6
