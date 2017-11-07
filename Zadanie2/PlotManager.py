@@ -41,12 +41,13 @@ def make_histogram(abalone_array):
 
     plt.xlabel(feat_names[feat_index[0]])
     plt.title('Histogram')
-    plt.hist(feats[feat_index[0]], 150, normed=1, facecolor='g', alpha=0.75)
+    plt.hist(feats[feat_index[0]], 150, facecolor='g')
 
     plt.xlabel(feat_names[feat_index[1]])
-    plt.hist(feats[feat_index[1]], 150, normed=1, facecolor='r', alpha=0.75)
+    plt.hist(feats[feat_index[1]], 150, facecolor='r')
 
+    plt.legend(((feat_names[feat_index[0]]), (feat_names[feat_index[1]])), loc=(1.005, 0.5))
     plt.xlim([0, 1])
-    plt.ylim([0, 9])
+    plt.ylim([0, 140])
     plt.plot(linregress(feats[feat_index[0]], feats[feat_index[1]]), color='blue')
     plt.show()
