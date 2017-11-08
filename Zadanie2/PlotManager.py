@@ -31,7 +31,7 @@ def get_max_corr_coef(feats):
     return [f1, f2]
 
 
-def make_histogram(abalone_array):
+def make_plots(abalone_array):
     data = abalone_array
 
     feat_names = ['length', 'diameter', 'height', 'whole_weight', 'shucked_weight', 'viscera_weight', 'shell_weight', 'rings']
@@ -39,15 +39,27 @@ def make_histogram(abalone_array):
     feats = [length, diameter, height, whole_weight, shucked_weight, viscera_weight, shell_weight, rings]
     feat_index = get_max_corr_coef(feats)
 
-    plt.xlabel(feat_names[feat_index[0]])
-    plt.title('Histogram')
-    plt.hist(feats[feat_index[0]], 150, facecolor='g')
+    fig = plt.figure()
 
-    plt.xlabel(feat_names[feat_index[1]])
-    plt.hist(feats[feat_index[1]], 150, facecolor='r')
+    ax1 = fig.add_subplot(3, 1, 1)
+    ax1.set_label(feat_names[feat_index[0]])
+    ax1.hist(feats[feat_index[0]], 150, facecolor='g')
+    ax1.hist(feats[feat_index[1]], 150, facecolor='r')
+    ax1.legend(((feat_names[feat_index[0]]), (feat_names[feat_index[1]])), loc=(1.005, 0.5))
 
-    plt.legend(((feat_names[feat_index[0]]), (feat_names[feat_index[1]])), loc=(1.005, 0.5))
-    plt.xlim([0, 1])
-    plt.ylim([0, 140])
-    plt.plot(linregress(feats[feat_index[0]], feats[feat_index[1]]), color='blue')
+    ax2 = fig.add_subplot(3, 1, 2)
+    ax2.scatter(feats[feat_index[0]], feats[feat_index[1]])
+    ax2.set_xlabel(feat_names[feat_index[0]])
+    ax2.set_ylabel(feat_names[feat_index[1]])
+    m, b = np.polyfit(feats[feat_index[0]], feats[feat_index[1]], 1)
+    ax2.plot(feats[feat_index[0]], feats[feat_index[0]] * m + b, '-', color='red')
+
+
+    ax3 = fig.add_subplot(3, 1, 3)
+    ax3.scatter(feats[feat_index[1]], feats[feat_index[0]])
+    ax3.set_xlabel(feat_names[feat_index[1]])
+    ax3.set_ylabel(feat_names[feat_index[0]])
+    m, b = np.polyfit(feats[feat_index[1]], feats[feat_index[0]], 1)
+    ax3.plot(feats[feat_index[1]], feats[feat_index[1]] * m + b, '-', color='red')
+
     plt.show()

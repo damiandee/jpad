@@ -18,7 +18,7 @@ from PlotManager import get_max_corr_coef
 
 import numpy as np
 import csv
-from PlotManager import make_histogram
+from PlotManager import make_plots
 
 with open('abalone.data', 'r') as abalone_file:
     abalone_list = list(csv.reader(abalone_file, delimiter=','))
@@ -82,7 +82,7 @@ print("Ilość wystąpień I: " + str(countI))
 
 print('===========================================================================')
 
-make_histogram(abalone_array)
+make_plots(abalone_array)
 
 
 
